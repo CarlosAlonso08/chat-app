@@ -67,7 +67,7 @@ const Login = () => {
               </svg>
 
               <input
-                type="text"
+                type="password"
                 placeholder="Enter password"
                 className="w-full input h-10"
                 value={password}
