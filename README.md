@@ -1,11 +1,8 @@
 # Live Demo
 https://chat-app-va07.onrender.com/
 
-## Test users
-These users are in case you just want to see the functionality of the app without signup
+## Test user
+With this user you can use the app by logging in and send message to all the users in the app.
 
 Username: test1
 Password: abcd1234
-
-Username: trvPhlps
-Password: trvPhlps289
